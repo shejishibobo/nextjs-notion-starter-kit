@@ -4,7 +4,7 @@ import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {
   return (
-    <a
+    /* <a
       href='https://github.com/shejishibobo'
       target='_blank'
       rel='noopener noreferrer'
@@ -43,6 +43,6 @@ export const GitHubShareButton: React.FC = () => {
           className={styles.octoBody}
         />
       </svg>
-    </a>
+    </a> */
   )
 }
