@@ -20,6 +20,7 @@ module.exports = {
   // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
   pinterest: 'bobo12020',
+  xiaohongshu: 'user',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
