@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  pinterest: 'https://www.pinterest.com/bobo12020/_saved/',
+  pinterest: 'bobo12020',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
