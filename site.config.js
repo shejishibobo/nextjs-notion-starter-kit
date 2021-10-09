@@ -22,6 +22,7 @@ module.exports = {
   pinterest: 'bobo12020',
   xiaohongshu: 'user',
   bilibili: '342787585',
+  douyin: 'user',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
