@@ -4,6 +4,7 @@ import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {
   return (
+   <div></div>
     /* <a
       href='https://github.com/shejishibobo'
       target='_blank'
