@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '设计师啵啵',
   domain: 'https://uxdc.notion.site/e060b137c46b4951a3929e803a8cf720',
-  author: 'Travis Fischer',
+  author: '设计师啵啵',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  pinterest: 'https://www.pinterest.com/bobo12020/_saved/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
