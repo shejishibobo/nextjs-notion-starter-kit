@@ -50,6 +50,7 @@ export const pinterest: string | null = getSiteConfig('pinterest', null)
 export const xiaohongshu: string | null = getSiteConfig('xiaohongshu', null)
 export const bilibili: string | null = getSiteConfig('bilibili', null)
 export const douyin: string | null = getSiteConfig('douyin', null)
+export const zhihu: string | null = getSiteConfig('zhihu', null)
 
 export const socialImageTitle: string | null = getSiteConfig(
   'socialImageTitle',
