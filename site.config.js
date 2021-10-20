@@ -20,9 +20,9 @@ module.exports = {
   // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
   pinterest: 'bobo12020',
-  xiaohongshu: 'user',
+  // xiaohongshu: 'user',
   bilibili: '342787585',
-  douyin: 'user',
+  // douyin: 'user',
   zhihu: 'people',
 
   // default notion icon and cover images for site-wide consistency (optional)
