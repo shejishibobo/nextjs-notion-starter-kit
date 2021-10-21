@@ -35,7 +35,7 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
-            <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280464432'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1280464432%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+           <script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1280464432&web_id=1280464432"></script>
           </Head>
 
           <body>
