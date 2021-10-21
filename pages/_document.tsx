@@ -43,7 +43,7 @@ export default class MyDocument extends Document {
             <Main />
 
             <NextScript />
-            <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280464432'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1280464432%26online%3D2' type='text/javascript'%3E%3C/script%3E"));</script>
+            <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280464432'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1280464432%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
           </body>
         </Html>
       </IconContext.Provider>
