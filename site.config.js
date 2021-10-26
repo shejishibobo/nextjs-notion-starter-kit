@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e060b137c46b4951a3929e803a8cf720',
+  rootNotionPageId: 'e0600a8cf720',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '设计师啵啵',
-  domain: 'https://uxdc.notion.site/e060b137c46b4951a3929e803a8cf720',
+  domain: 'https://uxdc.notio',
   author: '设计师啵啵',
 
   // open graph metadata (optional)
